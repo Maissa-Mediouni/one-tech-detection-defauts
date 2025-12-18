@@ -35,8 +35,7 @@ L’objectif est d’améliorer la détection des défauts sur des équipements 
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
 maissa.mediouni@enib.ucar.tn 
-
-[LinkedIn](https://www.linkedin.com/in/maissa-mediouni-4385a8304)
+[LinkedIn] https://www.linkedin.com/in/maissa-mediouni-4385a8304
 
 
 
