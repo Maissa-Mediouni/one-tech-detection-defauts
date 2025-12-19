@@ -30,7 +30,15 @@ L’objectif est d’améliorer la détection des défauts sur des équipements 
 - Amélioration de la vitesse et de la fiabilité de l’inspection par rapport à la méthode manuelle
 
 ## Structure du projet
+── data/ # Images d’entrée (avec et sans défauts)
 
+── code/ # Scripts Python pour prétraitement et CNN
+
+── results/ # Résultats et prédictions
+
+── report/ # Rapport du projet et notes techniques
+
+── README.md
 ## Auteur
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
